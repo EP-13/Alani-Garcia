@@ -1,0 +1,24 @@
+h1{text-align:center;
+    color:#964B00;
+  font-family:'Gloria Hallelujah',cursive;
+    background-color:#99ffff;
+}
+
+h4{ color:#008080;
+    font-family: 'Shadows Into Light', cursive;}
+
+body {background-color:#9DC183;}
+
+img{ border: 4px dashed #964B00;
+    padding:5px;
+    margin: 10px;
+    width:20%;
+    height:auto;}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
